@@ -6,5 +6,18 @@ public class Main {
 
         System.out.println("Hello world!");
 
+        // Comentarios en una línea
+
+        /*
+        Comentarios
+        en
+        múltiples
+        líneas
+        */
+
+        /**
+         * Documentación con JavaDoc
+         */
+
     }
 }
